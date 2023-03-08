@@ -1,5 +1,5 @@
-we support
-java applications
-.net application
-NodeJS
-python application
+we support;
+java applications,
+.net application,
+NodeJS,
+python application,
